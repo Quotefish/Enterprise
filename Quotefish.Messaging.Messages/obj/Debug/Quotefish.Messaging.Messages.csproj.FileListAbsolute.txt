@@ -1,4 +1,0 @@
-C:\Users\msynnott.KOBO\Dropbox\Projects\Quotefish v2\Quotefish\Quotefish.Messaging.Messages\bin\Debug\Quotefish.Messaging.Messages.dll
-C:\Users\msynnott.KOBO\Dropbox\Projects\Quotefish v2\Quotefish\Quotefish.Messaging.Messages\bin\Debug\Quotefish.Messaging.Messages.pdb
-C:\Users\msynnott.KOBO\Dropbox\Projects\Quotefish v2\Quotefish\Quotefish.Messaging.Messages\obj\Debug\Quotefish.Messaging.Messages.dll
-C:\Users\msynnott.KOBO\Dropbox\Projects\Quotefish v2\Quotefish\Quotefish.Messaging.Messages\obj\Debug\Quotefish.Messaging.Messages.pdb
