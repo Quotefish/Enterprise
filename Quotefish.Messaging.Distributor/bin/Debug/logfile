@@ -1,0 +1,34 @@
+2013-02-16 13:52:27,547 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2013-02-16 13:52:27,609 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2013-02-16 13:52:27,619 [1] INFO  Distributor.Quotefish.Messaging.Distributor [(null)] <(null)> - Endpoint configured to host the distributor, applicative input queue re routed to quotefish.messaging.distributor.worker@msynnott-pc
+2013-02-16 13:52:27,655 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2013-02-16 13:52:27,658 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2013-02-16 13:52:32,156 [1] WARN  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue msynnott-pc\private$\quotefish.messaging.distributor.distributor.control does not exist.
+2013-02-16 13:52:32,157 [1] INFO  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Going to create queue: msynnott-pc\private$\quotefish.messaging.distributor.distributor.control
+2013-02-16 13:52:32,277 [1] WARN  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue msynnott-pc\private$\quotefish.messaging.distributor.distributor.storage does not exist.
+2013-02-16 13:52:32,278 [1] INFO  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Going to create queue: msynnott-pc\private$\quotefish.messaging.distributor.distributor.storage
+2013-02-16 13:52:32,375 [1] WARN  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue msynnott-pc\private$\quotefish.messaging.distributor.retries does not exist.
+2013-02-16 13:52:32,377 [1] INFO  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Going to create queue: msynnott-pc\private$\quotefish.messaging.distributor.retries
+2013-02-16 13:52:32,423 [1] WARN  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue msynnott-pc\private$\quotefish.messaging.distributor does not exist.
+2013-02-16 13:52:32,424 [1] INFO  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Going to create queue: msynnott-pc\private$\quotefish.messaging.distributor
+2013-02-16 13:52:32,471 [1] WARN  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue msynnott-pc\private$\quotefish.messaging.distributor.subscriptions does not exist.
+2013-02-16 13:52:32,473 [1] INFO  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Going to create queue: msynnott-pc\private$\quotefish.messaging.distributor.subscriptions
+2013-02-16 13:52:50,409 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2013-02-16 13:52:50,471 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2013-02-16 13:52:50,481 [1] INFO  Distributor.Quotefish.Messaging.Distributor [(null)] <(null)> - Endpoint configured to host the distributor, applicative input queue re routed to quotefish.messaging.distributor.worker@msynnott-pc
+2013-02-16 13:52:50,517 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2013-02-16 13:52:50,519 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2013-02-16 13:57:55,494 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2013-02-16 13:57:55,556 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2013-02-16 13:57:55,566 [1] INFO  Distributor.Quotefish.Messaging.Distributor [(null)] <(null)> - Endpoint configured to host the distributor, applicative input queue re routed to quotefish.messaging.distributor.worker@msynnott-pc
+2013-02-16 13:57:55,602 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2013-02-16 13:57:55,603 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2013-02-16 14:03:31,985 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - No valid license found.
+2013-02-16 14:03:32,048 [1] INFO  NServiceBus.Licensing.LicenseManager [(null)] <(null)> - Configuring NServiceBus to run in trial mode.
+2013-02-16 14:03:32,058 [1] INFO  Distributor.Quotefish.Messaging.Distributor [(null)] <(null)> - Endpoint configured to host the distributor, applicative input queue re routed to quotefish.messaging.distributor.worker@msynnott-pc
+2013-02-16 14:03:32,098 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2013-02-16 14:03:32,100 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.3.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2013-02-16 14:03:37,842 [Worker.17] INFO  Distributor.Quotefish.Messaging.Distributor [(null)] <(null)> - Worker quotefish.categoryservice.604de69a-e426-4f7c-9dc7-6d99d7529f10.6934da7c-2bc8-4e7b-b7a6-f463e2a8e2b2@msynnott-pc has started up, clearing previous reported capacity
+2013-02-16 14:03:37,870 [Worker.17] INFO  Distributor.Quotefish.Messaging.Distributor [(null)] <(null)> - Worker quotefish.categoryservice.604de69a-e426-4f7c-9dc7-6d99d7529f10.6934da7c-2bc8-4e7b-b7a6-f463e2a8e2b2@msynnott-pc checked in with available capacity: 1
+2013-02-16 14:04:07,726 [Worker.14] INFO  Distributor.Quotefish.Messaging.Distributor [(null)] <(null)> - Worker quotefish.categoryservice.d4701cec-2a43-4857-821f-4079e706ac70.8f12c18e-77f5-4049-af21-90213cf083df@msynnott-pc has started up, clearing previous reported capacity
+2013-02-16 14:04:07,742 [Worker.14] INFO  Distributor.Quotefish.Messaging.Distributor [(null)] <(null)> - Worker quotefish.categoryservice.d4701cec-2a43-4857-821f-4079e706ac70.8f12c18e-77f5-4049-af21-90213cf083df@msynnott-pc checked in with available capacity: 1

@@ -1,0 +1,17 @@
+C:\Users\msynnott.KOBO\Dropbox\Projects\Quotefish v2\Quotefish\Quotefish.Messaging.Distributor\bin\Debug\Configuration\Log4Net\Log4Net.config
+C:\Users\msynnott.KOBO\Dropbox\Projects\Quotefish v2\Quotefish\Quotefish.Messaging.Distributor\bin\Debug\Quotefish.Messaging.Distributor.dll.config
+C:\Users\msynnott.KOBO\Dropbox\Projects\Quotefish v2\Quotefish\Quotefish.Messaging.Distributor\bin\Debug\Quotefish.Messaging.Distributor.dll
+C:\Users\msynnott.KOBO\Dropbox\Projects\Quotefish v2\Quotefish\Quotefish.Messaging.Distributor\bin\Debug\Quotefish.Messaging.Distributor.pdb
+C:\Users\msynnott.KOBO\Dropbox\Projects\Quotefish v2\Quotefish\Quotefish.Messaging.Distributor\bin\Debug\log4net.dll
+C:\Users\msynnott.KOBO\Dropbox\Projects\Quotefish v2\Quotefish\Quotefish.Messaging.Distributor\bin\Debug\NServiceBus.Core.dll
+C:\Users\msynnott.KOBO\Dropbox\Projects\Quotefish v2\Quotefish\Quotefish.Messaging.Distributor\bin\Debug\NServiceBus.dll
+C:\Users\msynnott.KOBO\Dropbox\Projects\Quotefish v2\Quotefish\Quotefish.Messaging.Distributor\bin\Debug\NServiceBus.Host.exe
+C:\Users\msynnott.KOBO\Dropbox\Projects\Quotefish v2\Quotefish\Quotefish.Messaging.Distributor\bin\Debug\log4net.xml
+C:\Users\msynnott.KOBO\Dropbox\Projects\Quotefish v2\Quotefish\Quotefish.Messaging.Distributor\bin\Debug\NServiceBus.pdb
+C:\Users\msynnott.KOBO\Dropbox\Projects\Quotefish v2\Quotefish\Quotefish.Messaging.Distributor\bin\Debug\NServiceBus.xml
+C:\Users\msynnott.KOBO\Dropbox\Projects\Quotefish v2\Quotefish\Quotefish.Messaging.Distributor\bin\Debug\NServiceBus.Core.pdb
+C:\Users\msynnott.KOBO\Dropbox\Projects\Quotefish v2\Quotefish\Quotefish.Messaging.Distributor\bin\Debug\NServiceBus.Core.xml
+C:\Users\msynnott.KOBO\Dropbox\Projects\Quotefish v2\Quotefish\Quotefish.Messaging.Distributor\bin\Debug\NServiceBus.Host.pdb
+C:\Users\msynnott.KOBO\Dropbox\Projects\Quotefish v2\Quotefish\Quotefish.Messaging.Distributor\bin\Debug\NServiceBus.Host.xml
+C:\Users\msynnott.KOBO\Dropbox\Projects\Quotefish v2\Quotefish\Quotefish.Messaging.Distributor\obj\Debug\Quotefish.Messaging.Distributor.dll
+C:\Users\msynnott.KOBO\Dropbox\Projects\Quotefish v2\Quotefish\Quotefish.Messaging.Distributor\obj\Debug\Quotefish.Messaging.Distributor.pdb
