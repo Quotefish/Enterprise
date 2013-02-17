@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using Raven.Client.Document;
 
-namespace Quotefish.CategoryService.DataAccess
+namespace Quotefish.CategoryService.Worker.DataAccess
 {
     public class DocumentStoreFactory
     {

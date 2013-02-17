@@ -1,10 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Quotefish.CategoryService.DataAccess;
-using Quotefish.CategoryService.DataAccess.DataTransferObject;
+﻿using Quotefish.CategoryService.Worker.DataAccess;
+using Quotefish.CategoryService.Worker.DataAccess.DataTransferObject;
 using NUnit.Framework;
 
 namespace Quotefish.CategoryService.Tests

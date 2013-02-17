@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
-using Quotefish.CategoryService.DataAccess.DataTransferObject;
+using Quotefish.CategoryService.Worker.DataAccess.DataTransferObject;
 
-namespace Quotefish.CategoryService.DataAccess
+namespace Quotefish.CategoryService.Worker.DataAccess
 {
     public class CategoryRepository
     {

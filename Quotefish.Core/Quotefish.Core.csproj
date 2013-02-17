@@ -49,6 +49,7 @@
     <Compile Include="Aop\Interceptors\ILoggingInterceptor.cs" />
     <Compile Include="Aop\Interceptors\LoggingInterceptor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RavenDb\RavenDbDocument.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

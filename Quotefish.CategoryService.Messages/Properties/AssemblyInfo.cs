@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Quotefish.CategoryService.Worker")]
+[assembly: AssemblyTitle("Quotefish.CategoryService.Messages")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Quotefish.CategoryService.Worker")]
+[assembly: AssemblyProduct("Quotefish.CategoryService.Messages")]
 [assembly: AssemblyCopyright("Copyright ©  2013")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("67647816-3358-4987-8709-b58e47687bd7")]
+[assembly: Guid("376089c3-7a9e-4294-9a62-6fcbef49c93f")]
 
 // Version information for an assembly consists of the following four values:
 //

@@ -2,7 +2,7 @@ using System;
 using NServiceBus;
 using NServiceBus.Config;
 
-namespace Quotefish.Messaging.Distributor 
+namespace Quotefish.CategoryService.Distributor 
 {
     public class EndpointConfig : IConfigureThisEndpoint, IWantToRunAtStartup
     {

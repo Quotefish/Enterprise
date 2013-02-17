@@ -7,8 +7,8 @@
     <ProjectGuid>{13910C90-2CD2-45D8-8194-ADEE165CC55A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Quotefish.CategoryService</RootNamespace>
-    <AssemblyName>Quotefish.CategoryService</AssemblyName>
+    <RootNamespace>Quotefish.CategoryService.Worker</RootNamespace>
+    <AssemblyName>Quotefish.CategoryService.Worker</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -111,10 +111,6 @@
     <ProjectReference Include="..\Quotefish.Core\Quotefish.Core.csproj">
       <Project>{5f4c28a3-d77d-4211-ac35-8264c4176014}</Project>
       <Name>Quotefish.Core</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Quotefish.Messaging.Messages\Quotefish.Messaging.Messages.csproj">
-      <Project>{3e68b231-84e7-46d5-b3a6-fc0e4b28f13c}</Project>
-      <Name>Quotefish.Messaging.Messages</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

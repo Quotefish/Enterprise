@@ -7,7 +7,7 @@ using NServiceBus;
 using Quotefish.Core.Aop.Interceptors;
 using log4net.Config;
 
-namespace Quotefish.CategoryService 
+namespace Quotefish.CategoryService.Worker
 {
     public class EndpointConfig : IConfigureThisEndpoint, IWantToRunAtStartup
     {

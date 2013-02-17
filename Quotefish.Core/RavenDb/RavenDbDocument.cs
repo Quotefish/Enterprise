@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-
-namespace Quotefish.CategoryService.Worker.DataAccess.DataTransferObject
+﻿namespace Quotefish.Core.RavenDb
 {
     public abstract class RavenDbDocument
     {

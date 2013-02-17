@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using NUnit.Framework;
-using Quotefish.CategoryService.DataAccess;
+using Quotefish.CategoryService.Worker.DataAccess;
 
 namespace Quotefish.CategoryService.Tests
 {
